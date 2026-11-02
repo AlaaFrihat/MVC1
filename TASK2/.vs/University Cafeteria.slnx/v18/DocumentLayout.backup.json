@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\task2\\task2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|solutionrelative:task2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\task2\\task2\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|solutionrelative:task2\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\task2\\task2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|solutionrelative:task2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\task2\\task2\\views\\cafeteria\\supplystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|solutionrelative:task2\\views\\cafeteria\\supplystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\task2\\task2\\views\\cafeteria\\suppliers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|solutionrelative:task2\\views\\cafeteria\\suppliers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\task2\\task2\\views\\shared\\_simplelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|solutionrelative:task2\\views\\shared\\_simplelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\task2\\task2\\views\\cafeteria\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|solutionrelative:task2\\views\\cafeteria\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\task2\\task2\\views\\cafeteria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|solutionrelative:task2\\views\\cafeteria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\task2\\task2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|solutionrelative:task2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\task2\\task2\\controllers\\cafeteriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3093F84E-E72B-4989-9B56-5AC94C30503F}|TASK2\\TASK2.csproj|solutionrelative:task2\\controllers\\cafeteriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TASK2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\_ViewStart.cshtml*",
+              "RelativeToolTip": "TASK2\\Views\\_ViewStart.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T12:50:29.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TASK2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TASK2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T12:48:42.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TASK2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TASK2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T12:17:05.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_SimpleLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Shared\\_SimpleLayout.cshtml",
+              "RelativeDocumentMoniker": "TASK2\\Views\\Shared\\_SimpleLayout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Shared\\_SimpleLayout.cshtml",
+              "RelativeToolTip": "TASK2\\Views\\Shared\\_SimpleLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T11:55:28.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "TASK2\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "TASK2\\Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T11:54:39.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupplyStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Cafeteria\\SupplyStatus.cshtml",
+              "RelativeDocumentMoniker": "TASK2\\Views\\Cafeteria\\SupplyStatus.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Cafeteria\\SupplyStatus.cshtml",
+              "RelativeToolTip": "TASK2\\Views\\Cafeteria\\SupplyStatus.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T11:53:50.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Suppliers.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Cafeteria\\Suppliers.cshtml",
+              "RelativeDocumentMoniker": "TASK2\\Views\\Cafeteria\\Suppliers.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Cafeteria\\Suppliers.cshtml",
+              "RelativeToolTip": "TASK2\\Views\\Cafeteria\\Suppliers.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T11:53:35.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Cafeteria\\Products.cshtml",
+              "RelativeDocumentMoniker": "TASK2\\Views\\Cafeteria\\Products.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Cafeteria\\Products.cshtml",
+              "RelativeToolTip": "TASK2\\Views\\Cafeteria\\Products.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T11:53:14.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Cafeteria\\Index.cshtml",
+              "RelativeDocumentMoniker": "TASK2\\Views\\Cafeteria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Views\\Cafeteria\\Index.cshtml",
+              "RelativeToolTip": "TASK2\\Views\\Cafeteria\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T11:50:04.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CafeteriaController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Controllers\\CafeteriaController.cs",
+              "RelativeDocumentMoniker": "TASK2\\Controllers\\CafeteriaController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\TASK2\\TASK2\\Controllers\\CafeteriaController.cs",
+              "RelativeToolTip": "TASK2\\Controllers\\CafeteriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T11:48:44.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

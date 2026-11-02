@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @RenderSection("Scripts", required: false)
+
+</head>
+<body>
+
+    <nav>
+        <a asp-controller="Cafeteria" asp-action="Index" class="text-white me-3">Home</a>
+
+        <a asp-controller="Cafeteria" asp-action="Products" class="text-white me-3">Products</a>
+
+        <a asp-controller="Cafeteria" asp-action="Suppliers" class="text-white me-3">Suppliers</a>
+
+        <a asp-controller="Cafeteria" asp-action="SupplyStatus" class="text-white">Supply Status</a>
+    </nav>
+    <div>
+        @RenderBody()
+    </div>
+
+
+
+
+    
+</body>
+</html>
