@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<h2>Review Request</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Supplier</th>
+            <th>Offer</th>
+            <th>Total Price (Qty * Price)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CategoryName</td>
+                <td>@item.SupplierName</td>
+                <td>@item.OfferName</td>
+                <td>@(item.Quantity * item.UnitPrice) JD</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="card p-3 mt-3">
+    <h4>Calculations:</h4>
+    <p><strong>Total:</strong> @ViewBag.Total JD</p>
+    <p><strong>Discount (@ViewBag.DiscountPercentage %):</strong> - @ViewBag.DiscountAmount JD</p>
+    <h3 class="text-success"><strong>Final Total:</strong> @ViewBag.FinalTotal JD</h3>
+</div>

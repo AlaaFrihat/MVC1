@@ -1,0 +1,65 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Graduation Supplies";
+}
+
+<h2>Select Graduation Supplies</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+
+<h3>Category 1: Graduation Certificates</h3>
+<table class="table table-bordered">
+    <tr>
+        <th>Supplier</th>
+        <th>Offer Name</th>
+        <th>Quantity</th>
+        <th>Unit Price</th>
+        <th>Action</th>
+    </tr>
+   
+    <tr>
+        <form asp-action="SelectOffer" method="post">
+            <input type="hidden" name="CategoryName" value="Graduation Certificates" />
+            <input type="hidden" name="SupplierName" value="Supplier A" />
+            <input type="hidden" name="OfferName" value="Premium Certificate Package" />
+            <input type="hidden" name="Quantity" value="35" />
+            <input type="hidden" name="UnitPrice" value="2" />
+
+            <td>Supplier A</td>
+            <td>Premium Certificate Package</td>
+            <td>35</td>
+            <td>2 JD</td>
+            <td><button type="submit" class="btn btn-primary btn-sm">Select</button></td>
+        </form>
+    </tr>
+ 
+    <tr>
+        <form asp-action="SelectOffer" method="post">
+            <input type="hidden" name="CategoryName" value="Graduation Certificates" />
+            <input type="hidden" name="SupplierName" value="Supplier B" />
+            <input type="hidden" name="OfferName" value="Standard Certificate Package" />
+            <input type="hidden" name="Quantity" value="35" />
+            <input type="hidden" name="UnitPrice" value="1.5" />
+
+            <td>Supplier B</td>
+            <td>Standard Certificate Package</td>
+            <td>35</td>
+            <td>1.5 JD</td>
+            <td><button type="submit" class="btn btn-primary btn-sm">Select</button></td>
+        </form>
+    </tr>
+</table>
+
+
+
+<a href="@Url.Action("Review", "Graduation")" class="btn btn-success mt-3">Review Request</a>
