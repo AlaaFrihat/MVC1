@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Migrations\\20261107171115_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcademyGraduationPreparation\\Migrations\\20261107171115_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\migrations\\academygraduationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\migrations\\academygraduationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\controllers\\graduationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\controllers\\graduationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\controllers\\graduationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\controllers\\graduationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\models\\graduationmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\models\\graduationmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\migrations\\20261107171115_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\migrations\\20261107171115_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\migrations\\academygraduationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\migrations\\academygraduationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\academygraduationpreparation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\academygraduationpreparation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\models\\graduationmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\models\\graduationmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\academygraduationpreparation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\academygraduationpreparation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\models\\academygraduationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\models\\academygraduationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\models\\academygraduationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\models\\academygraduationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\models\\selectedoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\models\\selectedoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\views\\graduation\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\views\\graduation\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\views\\graduation\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\views\\graduation\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\views\\graduation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\views\\graduation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\views\\graduation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D72870E1-125C-4091-B155-3936AA06B028}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\views\\graduation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|c:\\users\\user\\desktop\\c##\\c-sharb\\academygraduationpreparation\\academygraduationpreparation\\models\\selectedoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C848FACA-201F-82D6-4676-318FDE7D625F}|AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj|solutionrelative:academygraduationpreparation\\models\\selectedoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,63 +66,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AcademyGraduationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Migrations\\AcademyGraduationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "AcademyGraduationPreparation\\Migrations\\AcademyGraduationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Migrations\\AcademyGraduationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "AcademyGraduationPreparation\\Migrations\\AcademyGraduationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T17:11:26.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "20261107171115_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Migrations\\20261107171115_InitialCreate.cs",
               "RelativeDocumentMoniker": "AcademyGraduationPreparation\\Migrations\\20261107171115_InitialCreate.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Migrations\\20261107171115_InitialCreate.cs",
               "RelativeToolTip": "AcademyGraduationPreparation\\Migrations\\20261107171115_InitialCreate.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-07T17:11:15.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AcademyGraduationPreparation\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AcademyGraduationPreparation\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T17:10:13.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AcademyGraduationPreparation",
+              "DocumentIndex": 7,
+              "Title": "AcademyGraduationPreparation.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj",
               "RelativeDocumentMoniker": "AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj",
               "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj",
               "RelativeToolTip": "AcademyGraduationPreparation\\AcademyGraduationPreparation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-07T17:04:35.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2026-11-07T17:04:35.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\appsettings.json",
               "RelativeDocumentMoniker": "AcademyGraduationPreparation\\appsettings.json",
@@ -135,13 +104,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Program.cs",
               "RelativeDocumentMoniker": "AcademyGraduationPreparation\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Program.cs",
-              "RelativeToolTip": "AcademyGraduationPreparation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Program.cs*",
+              "RelativeToolTip": "AcademyGraduationPreparation\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-07T16:57:16.655Z",
               "EditorCaption": ""
@@ -154,27 +123,14 @@
               "RelativeDocumentMoniker": "AcademyGraduationPreparation\\Controllers\\GraduationController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Controllers\\GraduationController.cs",
               "RelativeToolTip": "AcademyGraduationPreparation\\Controllers\\GraduationController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwGIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-07T16:25:44.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AcademyGraduationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Models\\AcademyGraduationDbContext.cs",
-              "RelativeDocumentMoniker": "AcademyGraduationPreparation\\Models\\AcademyGraduationDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Models\\AcademyGraduationDbContext.cs",
-              "RelativeToolTip": "AcademyGraduationPreparation\\Models\\AcademyGraduationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T16:56:24.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "GraduationModels.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Models\\GraduationModels.cs",
               "RelativeDocumentMoniker": "AcademyGraduationPreparation\\Models\\GraduationModels.cs",
@@ -187,7 +143,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AcademyGraduationPreparation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AcademyGraduationPreparation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T17:10:13.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AcademyGraduationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Migrations\\AcademyGraduationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AcademyGraduationPreparation\\Migrations\\AcademyGraduationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Migrations\\AcademyGraduationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "AcademyGraduationPreparation\\Migrations\\AcademyGraduationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T17:11:26.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AcademyGraduationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Models\\AcademyGraduationDbContext.cs",
+              "RelativeDocumentMoniker": "AcademyGraduationPreparation\\Models\\AcademyGraduationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Models\\AcademyGraduationDbContext.cs",
+              "RelativeToolTip": "AcademyGraduationPreparation\\Models\\AcademyGraduationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T16:56:24.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Review.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Views\\Graduation\\Review.cshtml",
               "RelativeDocumentMoniker": "AcademyGraduationPreparation\\Views\\Graduation\\Review.cshtml",
@@ -195,12 +187,11 @@
               "RelativeToolTip": "AcademyGraduationPreparation\\Views\\Graduation\\Review.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-07T16:31:47.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T16:31:47.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Views\\Graduation\\Index.cshtml",
               "RelativeDocumentMoniker": "AcademyGraduationPreparation\\Views\\Graduation\\Index.cshtml",
@@ -208,12 +199,11 @@
               "RelativeToolTip": "AcademyGraduationPreparation\\Views\\Graduation\\Index.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-07T16:30:29.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T16:30:29.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "SelectedOffer.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\c##\\C-sharb\\AcademyGraduationPreparation\\AcademyGraduationPreparation\\Models\\SelectedOffer.cs",
               "RelativeDocumentMoniker": "AcademyGraduationPreparation\\Models\\SelectedOffer.cs",
@@ -221,8 +211,11 @@
               "RelativeToolTip": "AcademyGraduationPreparation\\Models\\SelectedOffer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T16:05:47.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T16:05:47.674Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
