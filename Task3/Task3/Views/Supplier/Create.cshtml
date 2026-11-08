@@ -1,0 +1,24 @@
+﻿
+
+@model Supplier
+@{
+}
+<form asp-action="create" asp-controller="Supplier" asp-method="post">
+
+    <div>
+        <label>Supplier Name:</label>
+        <input asp-for="Name" class="form-control" placeholder="Enter Supplier name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+
+    <div>
+        <label>Phone:</label>
+        <input asp-for="Phone" placeholder="Enter your Phone" />
+    </div>
+    <div>
+        <label>Email:</label>
+        <input asp-for="Email" placeholder="Enter your Email" />
+    </div>
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
