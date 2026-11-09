@@ -1,0 +1,15 @@
+﻿@model Task3.Models.Employee
+
+<h2>Employee Details</h2>
+
+<div class="card mt-4" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <h6 class="card-subtitle mb-2 text-muted">ID: @Model.Id</h6>
+        <p class="card-text"><strong>Position:</strong> @Model.Position</p>
+        <p class="card-text"><strong>Salary:</strong> @Model.Salary JD</p>
+
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

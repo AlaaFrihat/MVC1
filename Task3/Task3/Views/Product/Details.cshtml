@@ -1,0 +1,17 @@
+﻿@model Task3.Models.CodeFirst.Product
+
+<h2>Product Details</h2>
+
+<div class="card mt-4" style="width: 20rem;">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <h6 class="card-subtitle mb-2 text-muted">Product ID: @Model.Id</h6>
+        <p class="card-text"><strong>Price:</strong> @Model.Price JD</p>
+        <p class="card-text"><strong>Quantity:</strong> @Model.Quantity in stock</p>
+        <p class="card-text"><strong>Category ID:</strong> @Model.CategoryId</p>
+        <p class="card-text"><strong>Supplier ID:</strong> @Model.SupplierId</p>
+        
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

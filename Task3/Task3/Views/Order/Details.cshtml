@@ -1,0 +1,15 @@
+﻿@model Task3.Models.Order
+
+<h2>Order Details</h2>
+
+<div class="card mt-4" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">Order #@Model.Id</h5>
+        <p class="card-text"><strong>Customer:</strong> @Model.CustomerName</p>
+        <p class="card-text"><strong>Date:</strong> @Model.OrderDate.ToShortDateString()</p>
+        <p class="card-text"><strong>Total:</strong> @Model.TotalAmount JD</p>
+
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

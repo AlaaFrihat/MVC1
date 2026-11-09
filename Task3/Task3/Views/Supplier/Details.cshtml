@@ -1,0 +1,15 @@
+﻿@model Task3.Models.CodeFirst.Supplier
+
+<h2>Supplier Details</h2>
+
+<div class="card mt-4" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text"><strong>ID:</strong> @Model.Id</p>
+        <p class="card-text"><strong>Email:</strong> @Model.Email</p>
+        <p class="card-text"><strong>Phone:</strong> @Model.Phone</p>
+
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

@@ -20,7 +20,12 @@
                 <td>@item.Id</td>
                 <td>@item.Name</td>
                 <td>@item.Phone</td>
-                <th>@item.Email</th>
+                <td>@item.Email</td>
+                <td>
+                    <a asp-action="Edit" asp-controller="Supplier" asp-route-id="@item.Id">Edit</a>
+                    <a asp-action="Details" asp-controller="Supplier" asp-route-id="@item.Id">Details</a>
+                    <a asp-action="Delete" asp-controller="Supplier" asp-route-id="@item.Id">Delete</a>
+                </td>
             </tr>
         }
     </tbody>
