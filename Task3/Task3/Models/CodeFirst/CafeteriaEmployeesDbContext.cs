@@ -1,14 +1,17 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+using Task3.Models;
 
 namespace Task3.Models.CodeFirst
 {
-    public class CafeteriaEmployeesDbContext : DbContext
+    public class CafeteriaEmployeesDbContext : IdentityDbContext
     {
         public CafeteriaEmployeesDbContext(DbContextOptions<CafeteriaEmployeesDbContext> options)
             : base(options)
         {
         }
 
+       
         public DbSet<Category> Categories { get; set; }
         public DbSet<Supplier> Suppliers { get; set; }
         public DbSet<Product> Products { get; set; }
@@ -17,7 +20,12 @@ namespace Task3.Models.CodeFirst
         public DbSet<Employee> Employees { get; set; }
         public DbSet<Order> Orders { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        public DbSet<SupplyRequest> SupplyRequests { get; set; }
+        public DbSet<RequestItem> RequestItems { get; set; }
+    
+
+
+protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 

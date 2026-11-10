@@ -1,0 +1,20 @@
+﻿@model Task3.Models.SupplyRequest
+
+<h2>Create Supply Request</h2>
+<form asp-action="Create" method="post" class="mt-4">
+    <div class="form-group mb-3">
+        <label>Select Product:</label>
+        <select name="productId" class="form-control">
+            @foreach (var product in ViewBag.Products)
+            {
+                <option value="@product.Id">@product.Name - @product.Price JD</option>
+            }
+        </select>
+    </div>
+    <div class="form-group mb-3">
+        <label>Quantity:</label>
+        <input type="number" name="quantity" class="form-control" min="1" required />
+    </div>
+    <button type="submit" class="btn btn-success">Submit Request</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

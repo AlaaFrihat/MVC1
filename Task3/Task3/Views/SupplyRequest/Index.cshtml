@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Task3.Models.SupplyRequest>
+
+<h2>Supply Requests</h2>
+<a asp-action="Create" class="btn btn-primary mb-3">Create New Request</a>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Date</th>
+            <th>Total Price</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.RequestDate.ToShortDateString()</td>
+                <td>@item.TotalPrice JD</td>
+                <td><span class="badge @(item.Status == "Pending" ? "bg-warning" : item.Status == "Approved" ? "bg-success" : "bg-danger")">@item.Status</span></td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

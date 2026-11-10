@@ -1,0 +1,25 @@
+﻿@model Task3.Models.SupplyRequest
+
+<h2>Request Details</h2>
+<div class="card mt-4">
+    <div class="card-body">
+        <p><strong>Order ID:</strong> @Model.Id</p>
+        <p><strong>Total Price:</strong> @Model.TotalPrice JD</p>
+        <p><strong>Status:</strong> @Model.Status</p>
+
+        @if (User.IsInRole("Admin") || User.IsInRole("SuperAdmin"))
+        {
+            <form asp-action="ChangeStatus" method="post" class="d-inline">
+                <input type="hidden" name="id" value="@Model.Id" />
+                <input type="hidden" name="status" value="Approved" />
+                <button type="submit" class="btn btn-success btn-sm">Approve</button>
+            </form>
+            <form asp-action="ChangeStatus" method="post" class="d-inline">
+                <input type="hidden" name="id" value="@Model.Id" />
+                <input type="hidden" name="status" value="Rejected" />
+                <button type="submit" class="btn btn-danger btn-sm">Reject</button>
+            </form>
+        }
+        <a asp-action="Index" class="btn btn-secondary btn-sm ms-2">Back to List</a>
+    </div>
+</div>

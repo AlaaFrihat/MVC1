@@ -1,0 +1,16 @@
+﻿@model Task3.Models.ApplicationUser
+
+<h2>Change User Role</h2>
+<form asp-action="Edit" method="post" class="mt-4">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <div class="form-group mb-3">
+        <label>User: @Model.FullName (@Model.Email)</label>
+        <select name="newRole" class="form-select mt-2">
+            <option value="User">User</option>
+            <option value="Admin">Admin</option>
+            <option value="SuperAdmin">SuperAdmin</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-warning">Update Role</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
